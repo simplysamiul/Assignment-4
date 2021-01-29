@@ -123,8 +123,13 @@ nav ul li a:hover, a.active{
     color: #fff;
     font-weight: 500;
     background-color:  #3352F2;
+    transition: 0.3s;
 }
 .amount{
     display: flex;
     justify-content: space-between;
+}
+.btn-submit:hover{
+    cursor: pointer;
+    background-color: rgb(60, 60, 144);
 }
