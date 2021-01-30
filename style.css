@@ -70,15 +70,19 @@ nav ul li a:hover, a.active{
     margin-top: 10px;
     word-spacing: 20px;
 }
-.increase{
+.ticket-increase{
     color: #09ca19;
     cursor: pointer;
     font-size: 30px;
+    background-color: #ffffff;
+    border: none;
 }
-.decrease{
+.ticket-decrease{
     color: #c20909;
     font-size: 50px;
     cursor: pointer;
+    background-color: #ffffff;
+    border: none;
 }
 .booking-form  .calculations{
     margin: 10px 0;
